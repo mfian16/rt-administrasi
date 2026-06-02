@@ -1,0 +1,65 @@
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.backup
+.env.production
+.env.local
+.env.*.local
+
+# Composer
+/vendor
+/auth.json
+
+# Node
+/node_modules
+
+# Laravel public build / Vite
+/public/build
+/public/hot
+
+# Laravel storage symlink
+/public/storage
+
+# Laravel storage generated files
+/storage/*.key
+/storage/pail
+/storage/logs/*
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+/storage/framework/testing/*
+
+# Keep storage folder structure
+!/storage/app/
+!/storage/app/public/
+!/storage/app/public/ktp/
+!/storage/app/public/ktp/example-ktp.jpg
+
+# PHPUnit
+.phpunit.result.cache
+/.phpunit.cache
+
+# IDE / Editor
+/.idea
+/.vscode
+/.fleet
+/.nova
+/.zed
+.phpactor.json
+
+# Laravel Homestead
+Homestead.json
+Homestead.yaml
+
+# Misc
+.phpunit.cache
