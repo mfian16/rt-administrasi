@@ -14,27 +14,27 @@ Project ini dibuat sebagai hasil pengerjaan **Skill Fit Test Full Stack Programm
 
 # 🚀 Fitur Utama
 
-✅ Authentication login admin menggunakan Laravel Sanctum
-✅ Dashboard ringkasan saldo kas RT
-✅ Grafik tren pemasukan, pengeluaran, dan saldo RT
-✅ Manajemen data penghuni
-✅ Upload dan preview foto KTP penghuni
-✅ Manajemen data rumah
-✅ Detail rumah dengan penghuni aktif
-✅ Riwayat penghuni rumah
-✅ Manajemen pembayaran iuran Satpam dan Kebersihan
-✅ Pembayaran iuran 1 bulan
-✅ Pembayaran iuran 12 bulan sekaligus
-✅ Detail pembayaran dalam modal
-✅ Manajemen pengeluaran rutin dan tidak rutin
-✅ Detail pengeluaran dalam modal
-✅ Laporan keuangan tahunan dan bulanan
-✅ Filter laporan berdasarkan tahun dan bulan
-✅ Search, filter, pagination
-✅ Format rupiah dan tanggal Indonesia
-✅ Toast notification berhasil/gagal
-✅ Backend dan frontend terpisah
-✅ REST API
+- ✅ Authentication login admin menggunakan Laravel Sanctum
+- ✅ Dashboard ringkasan saldo kas RT
+- ✅ Grafik tren pemasukan, pengeluaran, dan saldo RT
+- ✅ Manajemen data penghuni
+- ✅ Upload dan preview foto KTP penghuni
+- ✅ Manajemen data rumah
+- ✅ Detail rumah dengan penghuni aktif
+- ✅ Riwayat penghuni rumah
+- ✅ Manajemen pembayaran iuran Satpam dan Kebersihan
+- ✅ Pembayaran iuran 1 bulan
+- ✅ Pembayaran iuran 12 bulan sekaligus
+- ✅ Detail pembayaran dalam modal
+- ✅ Manajemen pengeluaran rutin dan tidak rutin
+- ✅ Detail pengeluaran dalam modal
+- ✅ Laporan keuangan tahunan dan bulanan
+- ✅ Filter laporan berdasarkan tahun dan bulan
+- ✅ Search, filter, pagination
+- ✅ Format rupiah dan tanggal Indonesia
+- ✅ Toast notification berhasil/gagal
+- ✅ Backend dan frontend terpisah
+- ✅ REST API
 
 ---
 
