@@ -3,8 +3,6 @@
 
 ## `frontend/README.md`
 
-Ganti default Vite README dengan ini:
-
 ```md
 # Frontend - Sistem Administrasi RT
 
