@@ -1,14 +1,22 @@
 # 🏘️ Sistem Administrasi RT — Full Stack Web Application
 
-![Laravel](https://img.shields.io/badge/Laravel-Backend-red?style=for-the-badge\&logo=laravel)
-![React](https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge\&logo=react)
-![MySQL](https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge\&logo=mysql)
+![Laravel](https://img.shields.io/badge/Laravel-Backend-red?style=for-the-badge&logo=laravel)
+![React](https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge&logo=mysql)
 ![Sanctum](https://img.shields.io/badge/Laravel%20Sanctum-Authentication-purple?style=for-the-badge)
-![Vite](https://img.shields.io/badge/Vite-Build%20Tool-yellow?style=for-the-badge\&logo=vite)
+![Vite](https://img.shields.io/badge/Vite-Build%20Tool-yellow?style=for-the-badge&logo=vite)
 
 Sistem Administrasi RT adalah aplikasi web full stack untuk membantu pengelolaan data penghuni, rumah, pembayaran iuran, pengeluaran RT, dashboard keuangan, dan laporan administrasi RT.
 
 Project ini dibuat sebagai hasil pengerjaan **Skill Fit Test Full Stack Programmer** dengan ketentuan backend dan frontend dibuat secara terpisah menggunakan **Laravel**, **React**, dan **MySQL**.
+
+---
+
+## 🔗 Project Links
+
+* Repository: https://github.com/mfian16/rt-administrasi
+* Demo Video: tambahkan link video demo jika sudah ada
+* Portfolio: tambahkan link portfolio PDF jika sudah di-upload
 
 ---
 
@@ -649,7 +657,10 @@ Setelah backend dan frontend berjalan, lakukan pengujian berikut:
 
 Fresh Graduate Informatika
 
-Junior Web Developer Enthusiast
+Junior Web Developer | IT Programmer
+
+GitHub: https://github.com/mfian16
+LinkedIn: https://linkedin.com/in/muhammadfiqihirfiansyah
 
 GitHub:
 https://github.com/mfian16
