@@ -15,8 +15,7 @@ Project ini dibuat sebagai hasil pengerjaan **Skill Fit Test Full Stack Programm
 ## 🔗 Project Links
 
 * Repository: https://github.com/mfian16/rt-administrasi
-* Demo Video: tambahkan link video demo jika sudah ada
-* Portfolio: tambahkan link portfolio PDF jika sudah di-upload
+* Portfolio: https://drive.google.com/file/d/1a70RA29xd2ha6uQyNGLD61JEb-VC8ze5
 
 ---
 
