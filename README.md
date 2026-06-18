@@ -658,8 +658,5 @@ Fresh Graduate Informatika
 
 Junior Web Developer | IT Programmer
 
-GitHub: https://github.com/mfian16
-LinkedIn: https://linkedin.com/in/muhammadfiqihirfiansyah
-
-GitHub:
-https://github.com/mfian16
+- GitHub: https://github.com/mfian16
+- LinkedIn: https://linkedin.com/in/muhammadfiqihirfiansyah
